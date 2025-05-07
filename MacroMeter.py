@@ -5,7 +5,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report
 import yfinance as yf
 import requests
-# pip install pandas numpy scikit-learn yfinance
 
 
 # 예시: VIX 데이터 수집
